@@ -19,7 +19,7 @@ int sum_of_multiples(int n) {
 }
 
 int main() {
-    // Testing the function for the number 10
+    // Testing the function for the number 10.
     printf("%d\n", sum_of_multiples(10));  // It should return 23
 
     return 0;
